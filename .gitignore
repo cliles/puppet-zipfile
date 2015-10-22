@@ -1,0 +1,6 @@
+spec/reports
+spec/fixtures/**
+!spec/fixtures/hiera.yaml
+!spec/fixtures/hieradata
+!spec/fixtures/hieradata/*
+.bundle

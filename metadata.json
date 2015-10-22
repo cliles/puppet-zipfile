@@ -1,0 +1,16 @@
+{
+  "name": "cliles-zipfile",
+  "version": "0.0.3",
+  "author": "Chris Liles",
+  "summary": "A module to manage file content inside a zip/jar/ear/sar file.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/cliles/puppet-zipfile",
+  "project_page": "https://github.com/cliles/puppet-zipfile",
+  "issues_url": "https://github.com/cliles/puppet-zipfile",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
